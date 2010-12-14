@@ -15,7 +15,7 @@ setup(
     version = '0.1',
     description = 'Beaker backend to write sessions and caches to a ' +\
     'MongoDB schemaless database.',
-    long_description = '\n' + open('README').read(),
+    long_description = '\n' + open('README.rst').read(),
     author='Brendan W. McAdams',
     author_email = 'bwmcadams@gmail.com',
     keywords = 'mongo mongodb beaker cache session',
